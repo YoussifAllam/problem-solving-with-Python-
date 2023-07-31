@@ -1,0 +1,5 @@
+str=input()
+if str.isdigit() : print('IS DIGIT')
+if str.isalpha() : print("ALPHA")
+if str.isupper() : print('IS CAPITAL')
+if str.islower() : print('IS SMALL')
